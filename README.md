@@ -63,7 +63,7 @@ Trained and evaluated 5 classifiers:
 - Get instant sentiment classification with emoji
 - Clean and simple UI
 
-> 🔗 **[Live App URL]**(https://prasanna-badiger-7-imdb-sentiment-app.streamlit.app/)
+> 🔗 [Live App URL](https://prasanna-badiger-7-imdb-sentiment-app.streamlit.app/)
 
 ---
 
