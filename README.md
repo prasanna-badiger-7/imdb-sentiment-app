@@ -56,14 +56,14 @@ Trained and evaluated 5 classifiers:
 
 ---
 
-## 💻 Streamlit App (Coming Soon)
+## 💻 Streamlit App
 
 ### 🔮 Features
 - Paste or type a review
 - Get instant sentiment classification with emoji
 - Clean and simple UI
 
-> 🔗 **[Live App URL – Will Be Added After Deployment]**
+> 🔗 **[Live App URL]**(https://prasanna-badiger-7-imdb-sentiment-app.streamlit.app/)
 
 ---
 
